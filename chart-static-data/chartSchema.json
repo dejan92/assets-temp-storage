@@ -9,7 +9,7 @@
         "format": "%Q"
     },
     {
-        "name": "Revenue",
+        "name": "RevenueValues",
         "type": "number"
     }
 ]
