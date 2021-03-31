@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Revenue",
+        "type": "string"
+    },
+    {
+        "name": "Time",
+        "type": "date",
+        "format": "%Q"
+    },
+    {
+        "name": "RevenueValues",
+        "type": "number"
+    }
+]
